@@ -58,3 +58,4 @@ with open("miniset.csv", "rb") as f:
             # if rownum % 100 == 0:
             # print rownum
             # rownum += 1
+    c.close()
